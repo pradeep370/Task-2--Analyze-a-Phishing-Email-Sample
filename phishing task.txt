@@ -1,0 +1,55 @@
+                                Analyze a Phishing Email Sample
+
+Date - 05 august 2025
+Submitted by - Pradeep s
+
+Objective
+      To analyze a suspicious email and identify common phishing indicators such as fake links, spoofed sender, and social engineering tricks, helping to improve email threat detection skills.
+
+Tools are used
+      
+      *Online Link Checkers
+      *Email header analyzers (MX Toolbox)
+      *Virus Total (for link checking)
+
+Analyzing the Phishing Email
+ 
+ Manually inspected the email for:
+     *Fake sender email address
+     *Suspicious/mismatched link
+     *Fake attachment request
+     *Verify presence of spelling or grammar errors
+
+
+
+here i mentioned how did i find and what way i used
+
+1. Generic Greeting
+   - The email starts with “Dear Valued Customer” instead of using my actual name, which is common in phishing emails.
+
+2. Fake Sender Email
+   - The email was sent from a Gmail address (tomandcherry403@gmail.com), not an official domain like @yourbank.com. 
+
+3. Urgent and Threatening Language
+   - The message says Failure to verify within 24 hours will result in permanent suspension of your account, which creates unnecessary pressure and fear to make the user act quickly.
+
+4. Suspicious Link
+   - The link shown is: https://yourbank.secure-verify-login.net  
+   - Although it appears secure, it’s not a legitimate domain.
+   - Real banks never ask customers to click links in such emails.
+
+5. Grammatical and Stylistic Issues
+   - Sentences like ...suspended your access for security reasons and To restore access are slightly awkward and impersonal.
+   - Some phrases are unnatural and lack the polish of a real company email.
+
+6. Attachment Used to Steal Information
+   - The email includes a fake PDF file titled **Account_Verification_Form.pdf** which is meant to collect sensitive details like ATM PIN, card number, and login credentials.
+
+
+
+
+
+
+
+
+
